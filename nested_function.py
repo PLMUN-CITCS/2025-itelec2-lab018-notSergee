@@ -13,3 +13,4 @@ numbers_list = [2, 3, 4]
 result = sum_of_squares(numbers_list)
 
 print(f"The sum of squares is: {result}")
+
